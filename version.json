@@ -1,0 +1,7 @@
+﻿{
+  "version": "1.0.1",
+  "release_date": "2026-11-04",
+  "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
+  "jar_sha256": "B572357542BC17792E6094F1B6EA34C808D0D09FA27D26EFC30CA847AD9877DB",
+  "changelog": "Compatibilidad RuneLite 1.13.6, ajuste de sonidos por defecto a desactivado y perfiles automáticos."
+}
