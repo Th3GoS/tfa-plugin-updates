@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "release_date":  "2026-11-05",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "BB53BB52AF0674FB071856A5AD7734D565929B997E3C4D154BB201F82C4BE55C",
-    "changelog":  "Integracion de Better Party Defence (Sync) con sincronizacion de defensa en tiempo real"
+    "jar_sha256":  "9365F8F18C545461AB19066B15CB05DA21B98E3B2ABA806C4B5B463DA7BBA33D",
+    "changelog":  "Unificacion de nombres TFA, autoactivacion en perfiles Jagex Launcher y doble respaldo de carga"
 }
