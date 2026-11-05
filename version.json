@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.1",
-  "release_date": "2026-11-04",
-  "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-  "jar_sha256": "B572357542BC17792E6094F1B6EA34C808D0D09FA27D26EFC30CA847AD9877DB",
-  "changelog": "Compatibilidad RuneLite 1.13.6, ajuste de sonidos por defecto a desactivado y perfiles automáticos."
+    "version":  "1.0.2",
+    "release_date":  "2026-11-05",
+    "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
+    "jar_sha256":  "BB53BB52AF0674FB071856A5AD7734D565929B997E3C4D154BB201F82C4BE55C",
+    "changelog":  "Integracion de Better Party Defence (Sync) con sincronizacion de defensa en tiempo real"
 }
