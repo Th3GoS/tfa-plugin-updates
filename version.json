@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.3",
-    "release_date":  "2026-11-05",
+    "version":  "1.0.4",
+    "release_date":  "2026-11-06",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "9365F8F18C545461AB19066B15CB05DA21B98E3B2ABA806C4B5B463DA7BBA33D",
-    "changelog":  "Unificacion de nombres TFA, autoactivacion en perfiles Jagex Launcher y doble respaldo de carga"
+    "jar_sha256":  "94B6C3A7728C0FC198D6EC05C1C980DDF7EDD1DA447CDD88F5D55B548D24EFE7",
+    "changelog":  "Avisos de salto de isla centrados (TOP_CENTER), textos concisos y casillas independientes de configuracion"
 }
