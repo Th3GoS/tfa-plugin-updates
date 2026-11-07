@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.4",
-    "release_date":  "2026-11-06",
+{
+    "version":  "1.0.5",
+    "release_date":  "2026-11-07",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "94B6C3A7728C0FC198D6EC05C1C980DDF7EDD1DA447CDD88F5D55B548D24EFE7",
-    "changelog":  "Avisos de salto de isla centrados (TOP_CENTER), textos concisos y casillas independientes de configuracion"
+    "jar_sha256":  "97CD8149FAD955BB516CDF0E5985037E28D5F1042A0594BCA74749F5B68C0536",
+    "changelog":  "Auto-renovación silenciosa de licencia en segundo plano para Jagex Launcher y tolerancia offline"
 }
