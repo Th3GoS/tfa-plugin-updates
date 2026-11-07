@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "release_date":  "2026-11-07",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "97CD8149FAD955BB516CDF0E5985037E28D5F1042A0594BCA74749F5B68C0536",
-    "changelog":  "Auto-renovación silenciosa de licencia en segundo plano para Jagex Launcher y tolerancia offline"
+    "jar_sha256":  "72C2469BBF864BE056CDA976D9CFB6D8CFF6C1519A19A08D749BF4907B4B9220",
+    "changelog":  "Deteccion de animaciones de pisoton y zona segura visible en Bork; deteccion multicriterio de Xarth, Corpses y sombras moradas"
 }
