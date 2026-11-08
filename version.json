@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.6",
-    "release_date":  "2026-11-07",
+    "version":  "1.0.7",
+    "release_date":  "2026-11-08",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "72C2469BBF864BE056CDA976D9CFB6D8CFF6C1519A19A08D749BF4907B4B9220",
-    "changelog":  "Deteccion de animaciones de pisoton y zona segura visible en Bork; deteccion multicriterio de Xarth, Corpses y sombras moradas"
+    "jar_sha256":  "AACB9C158FAF6E8160326ACD83F85F9D00906C3E3B169482F7CA454C40ED8C02",
+    "changelog":  "Optimizacion critica de P2 Helper (escaneo continuo de Ocellus, deteccion instantanea de olas, resolucion temprana de cuadrantes y prediccion estabilizada) y autodeteccion en Guardian"
 }
