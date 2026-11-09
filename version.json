@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "release_date":  "2026-11-08",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "C87F6281693F99D1D559EF1B35671B375FB59D8D40BFDA23D6D8EFEE794286C6",
-    "changelog":  "Restaurada la estabilidad fija y solida de cuadros seguros y prediccion en P2 Helper"
+    "jar_sha256":  "3B5DF08F832F38DA40872B570DDDF79FDC7E6979F4463FC859A2E968E756BA3F",
+    "changelog":  "Migracion de archivos de licencia y cache a almacenamiento cifrado por HWID y oculto fuera de .runelite"
 }
