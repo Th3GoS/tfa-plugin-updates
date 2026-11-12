@@ -1,7 +1,7 @@
-{
-    "version":  "1.0.9",
-    "release_date":  "2026-11-08",
+﻿{
+    "version":  "1.1.0",
+    "release_date":  "2026-11-11",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "3B5DF08F832F38DA40872B570DDDF79FDC7E6979F4463FC859A2E968E756BA3F",
-    "changelog":  "Migracion de archivos de licencia y cache a almacenamiento cifrado por HWID y oculto fuera de .runelite"
+    "jar_sha256":  "ACC1510C59295D83BE5163CD7D78A0C53FC33796375DA0930A05FD97E15D4FAA",
+    "changelog":  "Actualizacion P2 Ocellus (6 cuadros maximos, supresion de marcas residuales y prioridad total al teleport) y blindaje anti-freezes JVM"
 }
