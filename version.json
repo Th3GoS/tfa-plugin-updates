@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.0",
-    "release_date":  "2026-11-11",
+    "version":  "1.1.1",
+    "release_date":  "2026-11-13",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "ACC1510C59295D83BE5163CD7D78A0C53FC33796375DA0930A05FD97E15D4FAA",
-    "changelog":  "Actualizacion P2 Ocellus (6 cuadros maximos, supresion de marcas residuales y prioridad total al teleport) y blindaje anti-freezes JVM"
+    "jar_sha256":  "DEB8022A7B80682F5209A4B56AA40C5E28665AF43118F42488C8D23EC381917A",
+    "changelog":  "P2 Ocellus ajustado a 5 cuadros seguros con limpieza de predicción en teleport, asistente de rezos en Guardian (Rango/Melee/Magia), corrección de avisos de Ezekiel fuera de sala, y mejoras en Dreadnoth y Dagon\u0027hai"
 }
