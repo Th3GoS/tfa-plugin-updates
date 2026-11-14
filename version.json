@@ -1,8 +1,8 @@
-{
+﻿{
     "version":  "1.1.2",
     "release_date":  "2026-11-14",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "50B4C823F589BBF2DA38BF532E5F93197ADFB47821D7513731ACA13480A2E205",
+    "jar_sha256":  "E711FD708927F28A4545871E2A05D8ECC03A690CCBA6105A3326480F02F652B2",
     "exe_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
-    "changelog":  "Integrados plugins Verzik P3 Tick Counter y Corrupted Hunllef Timer, activacion automatica de Collection Log Popup Enhanced, y eliminacion de TFA Raid Recorder para usuarios."
+    "changelog":  "Actualizacion automatica y migracion de launcher a GoS_Plugins_Setup.exe, Verzik P3, Corrupted Hunllef y Collection Log Popup Enhanced."
 }
