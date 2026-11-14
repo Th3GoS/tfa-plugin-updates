@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.1",
-    "release_date":  "2026-11-13",
+    "version":  "1.1.2",
+    "release_date":  "2026-11-14",
     "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "DEB8022A7B80682F5209A4B56AA40C5E28665AF43118F42488C8D23EC381917A",
-    "changelog":  "P2 Ocellus ajustado a 5 cuadros seguros con limpieza de predicción en teleport, asistente de rezos en Guardian (Rango/Melee/Magia), corrección de avisos de Ezekiel fuera de sala, y mejoras en Dreadnoth y Dagon\u0027hai"
+    "jar_sha256":  "50B4C823F589BBF2DA38BF532E5F93197ADFB47821D7513731ACA13480A2E205",
+    "changelog":  "Integrados plugins Verzik P3 Tick Counter y Corrupted Hunllef Timer, activacion automatica de Collection Log Popup Enhanced, y eliminacion de TFA Raid Recorder para usuarios."
 }
