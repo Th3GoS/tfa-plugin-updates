@@ -1,8 +1,9 @@
-﻿{
-    "version":  "1.1.2",
-    "release_date":  "2026-11-14",
-    "jar_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256":  "9062381A279D9E7921465D64D6CB2696BBBF8D750FBE9DBDB830700AE0124245",
-    "exe_url":  "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
-    "changelog":  "Actualizacion automatica y migracion de launcher a GoS_Plugins_Setup.exe, Verzik P3, Corrupted Hunllef y Collection Log Popup Enhanced."
+{
+    "version": "1.1.2",
+    "release_date": "2026-11-14",
+    "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
+    "jar_sha256": "9062381A279D9E7921465D64D6CB2696BBBF8D750FBE9DBDB830700AE0124245",
+    "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
+    "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
+    "changelog": "Actualizacion automatica y migracion de launcher a GoS_Plugins_Setup.exe, Verzik P3, Corrupted Hunllef y Collection Log Popup Enhanced."
 }
