@@ -1,9 +1,9 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "279E589E5549D259DE256A9DA20A5A5A4E8B08C96B6B0BDF23742E2843242BEE",
+    "jar_sha256": "FFA4DD081E4A3C672C9F03DD65B9720B634F62A280E6675FE8F4BB376C9DDB97",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Bork: Eliminado texto de Candidatos innecesario. Ocellus P2: Corregido cuadro de mas (ajustado a 4 pasos exactos)."
+    "changelog": "Nuevo plugin individual TFA Points Tracker sin Party Hub (sin tag Non-Party). Nuevo TFA & Boss DPS Counter mejorado para todos los cuartos de TFA y jefes sin reseteos molestos."
 }
