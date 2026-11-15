@@ -1,9 +1,9 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "FFA4DD081E4A3C672C9F03DD65B9720B634F62A280E6675FE8F4BB376C9DDB97",
+    "jar_sha256": "0855D9C3272DFB82618CC04E9E9B1C348865A629FBD1970B1CD8CDBE43363959",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Nuevo plugin individual TFA Points Tracker sin Party Hub (sin tag Non-Party). Nuevo TFA & Boss DPS Counter mejorado para todos los cuartos de TFA y jefes sin reseteos molestos."
+    "changelog": "Xarth: Deteccion y alerta de llamas en el suelo bajo los pies con aviso visual y sonido. Overlays compactos: Modo minimalista por defecto en TFA Points y DPS Counter."
 }
