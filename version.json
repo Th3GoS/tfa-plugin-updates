@@ -1,9 +1,9 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "AE020FD448034E30AA502B42DCCF02B408A262D71F1048FD6150B77542AFC324",
+    "jar_sha256": "47191E74BCAE4CEF52DC7A52C2F48EA4C036021D73538096E35300BC81D9698B",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Dreadnoth: Nuevo indicador llamativo estilo prayer para tomar Super Restore / Prayer Potion cuando el Prayer baje al 25% o menos."
+    "changelog": "Dreadnoth: Alerta de Prayer bajo configurable (por defecto 25%). Launcher: Actualizacion 100% automatica y transparente de plugins y ejecutable sin sobreescritura."
 }
