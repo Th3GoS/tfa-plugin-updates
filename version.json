@@ -1,9 +1,9 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "1FF9370F6983F70628428F3EB396D8A89CDFCD29CBE603E81FC011AE12609766",
+    "jar_sha256": "AE020FD448034E30AA502B42DCCF02B408A262D71F1048FD6150B77542AFC324",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Bork: Cooldown de 21s en Big Bomb para evitar sonido doble. DPS Counter: Eliminada entrada residual '0' y mejorada la asignación de daño. Launcher: Garantizada la actualización limpia sin sobreescritura de JAR."
+    "changelog": "Dreadnoth: Nuevo indicador llamativo estilo prayer para tomar Super Restore / Prayer Potion cuando el Prayer baje al 25% o menos."
 }
