@@ -1,9 +1,9 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "01FEA5E1891B0BAE3135060258A78E58B28E13806E7E8E52C957512436910943",
+    "jar_sha256": "3B3C25C3B0D0529EAE39FEA8E27E06F3BC8E5B5ECE3D7284C333985BF933FDEC",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Xarth: Deteccion completa de llamas bajo los pies (GraphicsObject, GameObject, GroundObject y DecorativeObject) con alerta roja, aviso sonoro y panel prioritario. Overlays compactos: Modo minimalista por defecto en TFA Points y DPS Counter."
+    "changelog": "DPS Counter: Renombrado a 'DPS Counter - GoS' universal (sin TFA) para uso en todos los jefes, raids y combate. Xarth: Deteccion completa de llamas bajo los pies con alerta sonora y visual. Overlays compactos por defecto."
 }
