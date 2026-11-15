@@ -1,9 +1,9 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "0042B7AC2E7B93F51CF2844D2E320AC2809DD4C2BC5F170A5FA1EF28E25A79B2",
+    "jar_sha256": "890805AEEE4E70DFD7F6F800BCE7C5187107E0D8CE8D8A5C8E9D221EBF0DF2FE",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "DPS Counter: Corregido el conteo doble en Party Hub. La suma de daño de todos los integrantes ahora es estrictamente identica al daño real del jefe sin duplicaciones."
+    "changelog": "DPS Counter: Registro exacto y balanceado de dano sin categoria 'Others'. Audio Bork: Sonido directo por tarjeta de sonido (incluso con audio del juego silenciado) y deteccion por sombra. Overlays compactos por defecto segun configuracion optima."
 }
