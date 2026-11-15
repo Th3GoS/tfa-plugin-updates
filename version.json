@@ -1,9 +1,9 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "47191E74BCAE4CEF52DC7A52C2F48EA4C036021D73538096E35300BC81D9698B",
+    "jar_sha256": "2E5DAD47CEA3EB578BCCF81ACF6DDD3698F25A9174183CA698C944F369C17A1F",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Dreadnoth: Alerta de Prayer bajo configurable (por defecto 25%). Launcher: Actualizacion 100% automatica y transparente de plugins y ejecutable sin sobreescritura."
+    "changelog": "DPS Counter: Registro directo y exacto de cada miembro via Party Hub sin reducciones artificiales. Correccion de ancho de overlay (eliminado salto de linea en nombres largos)."
 }
