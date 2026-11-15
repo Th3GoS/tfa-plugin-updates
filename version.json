@@ -1,9 +1,9 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "890805AEEE4E70DFD7F6F800BCE7C5187107E0D8CE8D8A5C8E9D221EBF0DF2FE",
+    "jar_sha256": "1FF9370F6983F70628428F3EB396D8A89CDFCD29CBE603E81FC011AE12609766",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "DPS Counter: Registro exacto y balanceado de dano sin categoria 'Others'. Audio Bork: Sonido directo por tarjeta de sonido (incluso con audio del juego silenciado) y deteccion por sombra. Overlays compactos por defecto segun configuracion optima."
+    "changelog": "Bork: Cooldown de 21s en Big Bomb para evitar sonido doble. DPS Counter: Eliminada entrada residual '0' y mejorada la asignación de daño. Launcher: Garantizada la actualización limpia sin sobreescritura de JAR."
 }
