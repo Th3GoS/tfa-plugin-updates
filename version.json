@@ -1,9 +1,9 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "8B4E24F4C21B708C49BC4EE83DF2B8B0BE64D3FAE805DE3130A75181E16C5D29",
+    "jar_sha256": "E8E51A8041E6582F1442A3C333B727B566A305FD753601D91A80CF0FF6FE5C1C",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Bork: Audio personalizado de Big Bomb (Video Project 4) al lanzar la bomba que aturde a Bork, con volumen por defecto al 70% y toggle configurable. DPS Counter universal sin prefijo TFA."
+    "changelog": "DPS Counter: Sincronizacion bidireccional mediante RuneLite Party (DpsUpdate) para daño exacto por jugador sin desbalances. Nuevas opciones por defecto identicas a las capturas para TFA Points y DPS Counter."
 }
