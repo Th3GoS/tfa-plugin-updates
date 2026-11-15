@@ -1,9 +1,9 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "865566EDD170A57F484E370699D714D618EF76DCEDCC597DD2B1F78D3D443EFF",
+    "jar_sha256": "0042B7AC2E7B93F51CF2844D2E320AC2809DD4C2BC5F170A5FA1EF28E25A79B2",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "DPS Counter: Eliminacion total del fantasma 'Others' y balance inteligente de combate entre todos los companeros de raid sin sesgo ni monopolio. Bork: Alerta sonora de Big Bomb garantizada incluso en modo espectador."
+    "changelog": "DPS Counter: Corregido el conteo doble en Party Hub. La suma de daño de todos los integrantes ahora es estrictamente identica al daño real del jefe sin duplicaciones."
 }
