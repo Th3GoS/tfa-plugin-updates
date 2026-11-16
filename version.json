@@ -1,9 +1,9 @@
 {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "release_date": "2026-11-15",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "2E5DAD47CEA3EB578BCCF81ACF6DDD3698F25A9174183CA698C944F369C17A1F",
+    "jar_sha256": "93106CED4A255B04CD28EF2682EA134C9BDCB28E4EDDA2C74ED20790D3AE2B49",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "DPS Counter: Registro directo y exacto de cada miembro via Party Hub sin reducciones artificiales. Correccion de ancho de overlay (eliminado salto de linea en nombres largos)."
+    "changelog": "DPS Counter v1.2.8: Captura total de daño de compañeros (!isMine), compatibilidad completa con RuneLite Party Hub, indicador de estado de grupo (ej: 3P) y precisión de cálculo mejorada."
 }
