@@ -1,9 +1,9 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "release_date": "2026-11-16",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "153987192824433C1D5C6D6764509A1DAB650A11A53C0CF93F6ED660F36B855E",
+    "jar_sha256": "F3652318313C32F313A950B477876BB9DD71B20FE06D6A8F2804DEF2ABFAEB1C",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "v1.3.0: Grabacion de TFA gateada por el controlador de raid (captura la raid completa aunque las salas sean instanciadas) y deja de capturar zonas fuera de la raid. Subida en segundo plano mas tolerante al cierre."
+    "changelog": "v1.3.1: captura del nombre de NPC para mapeo automatico de jefes en el analisis."
 }
