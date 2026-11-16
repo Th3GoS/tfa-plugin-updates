@@ -1,9 +1,9 @@
 {
-    "version": "1.2.9",
+    "version": "1.3.0",
     "release_date": "2026-11-16",
     "jar_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/FracturedArchiveHelpers.jar",
-    "jar_sha256": "E43426A8A65E8F14FEF590AD1F79439C164440FA78A53D3BEB5785259A187614",
+    "jar_sha256": "153987192824433C1D5C6D6764509A1DAB650A11A53C0CF93F6ED660F36B855E",
     "exe_url": "https://github.com/Th3GoS/tfa-plugin-updates/releases/latest/download/GoS_Plugins_Setup.exe",
     "server_url": "https://gos-licenses-api.oskr-vh16.workers.dev",
-    "changelog": "Raid Data Recorder v1.2.9: Grabador anonimo de datos de combate y mecanicas de raid integrado (enabledByDefault), subida automatica en segundo plano a Cloudflare y optimizacion de telemetria sin impacto en FPS."
+    "changelog": "v1.3.0: Grabacion de TFA gateada por el controlador de raid (captura la raid completa aunque las salas sean instanciadas) y deja de capturar zonas fuera de la raid. Subida en segundo plano mas tolerante al cierre."
 }
